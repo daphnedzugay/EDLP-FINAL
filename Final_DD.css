@@ -1,0 +1,21 @@
+div{border:5px double black; margin-top:8px; margin-bottom:8px; background-color:hotpink}
+#chipmunk{border: solid hotpink}
+.imagecontent{display:flex;               
+            justify-content:center;     
+            align-items:center;     
+            padding:2px;}
+.dog{display:block; 
+	margin-left:auto; 
+	margin-right:auto; 
+	border:3px dotted black;}
+header{font-style:italic; 
+	text-align:center; 
+	font-size:25px;
+	color:white;}
+nav{background-color:hotpink;
+	text-align:center; font-size:19px;}
+Footer{text-align:center; image-align:center; color:white}
+A:link{color:white}
+A:visited{color:orange}
+A:hover{font-size:25pt}
+H2:hover{color:darkorchid}
